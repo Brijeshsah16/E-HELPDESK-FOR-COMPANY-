@@ -1,6 +1,6 @@
 # E-HELPDESK-FOR-COMPANY-
 made using cpp
-##SCREENSHOTS 
+## SCREENSHOTS 
 ![image](https://user-images.githubusercontent.com/68849555/122034406-1ea5eb00-cdef-11eb-9ac0-9fd27b102338.png)
 ![image](https://user-images.githubusercontent.com/68849555/122034425-25ccf900-cdef-11eb-9e96-45fb0772b3d8.png)
 ![image](https://user-images.githubusercontent.com/68849555/122034466-2ebdca80-cdef-11eb-866d-593e38ebdf2d.png)
